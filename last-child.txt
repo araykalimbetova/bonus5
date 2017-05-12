@@ -1,0 +1,1 @@
+http://code.google.com/p/ie7-js/ - для :last-child в IE8:
